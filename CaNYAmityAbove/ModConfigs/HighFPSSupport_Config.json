@@ -1,0 +1,6 @@
+{
+  "limitFPS": true,
+  "fpsLimit": 180,
+  "blackTileOptimization": true,
+  "solidTileOptimization": true
+}

@@ -1,0 +1,10 @@
+{
+  "metricSystem": true,
+  "twentyFourHourTime": true,
+  "removeOneDrop": true,
+  "lifeCrystalGlow": true,
+  "lifeFruitGlow": true,
+  "respawnTime": 3.0,
+  "eventRespawnTime": 6.0,
+  "bossRespawnTime": 10.0
+}
