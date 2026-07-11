@@ -11,3 +11,5 @@ Navigate to [github action output](https://github.com/MeowMeowFishcakeHouse/Terr
 Under the "Artifacts" tab there are compressed mod archive for each modset:
 
 ![artifacts](./img/artifacts.png)
+
+Or use release panel on the right
